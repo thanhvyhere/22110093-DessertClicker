@@ -2,7 +2,7 @@ ID Student: 22110093
 
 Name: Dinh Thi Thanh Vy
 
-=====================
+
 Dessert Clicker app
 =====================
 
